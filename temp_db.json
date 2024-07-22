@@ -1,0 +1,34 @@
+[
+  {
+    "title": "House new in Green Valley",
+    "description": "A 3bhk house in Green Valley is open to rent for anyone interested.The rooms are very spacious with well developed kitchen.Wooden almirahs are built in.",
+    "locationCity": "Durg",
+    "locationSociety": "Chouhan Green Valley",
+    "address": "Chouhan Green Valley,B-11,Apt no. -12",
+    "noOfRooms": "3009",
+    "images": [
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721647043/fekycerrjwhegj2yfl2p.jpg",
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721647027/xbvlv0h4cemlfupotb7l.jpg",
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721646295/y0s3oysx4cwq2vxh5jed.jpg"
+    ],
+    "listingType": "rent",
+    "priceOfRent": "8000",
+    "id": "1721324350556"
+  },
+  {
+    "title": "Good House in Green Valley",
+    "description": "a BEAUTIFUL",
+    "locationCity": "durg",
+    "locationSociety": "Green Valley",
+    "address": "Green Valley B-11/12",
+    "noOfRooms": "3",
+    "listingType": "sale",
+    "images": [
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721647154/lzcehadwcwrqqtnocvuq.jpg",
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721647133/feme9itnpbun08qiznyc.jpg",
+      "https://res.cloudinary.com/di2aexa1d/image/upload/v1721647116/ujyrwomzhjlqboohrbpg.jpg"
+    ],
+    "priceOfBuy": "32000",
+    "id": "1721559621145"
+  }
+]
